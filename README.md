@@ -7,18 +7,23 @@
 
 官网：www.casaos.io  
 
-官方安装命令：curl -fsSL https://get.casaos.io | bash 或者 wget -qO- https://get.casaos.io | bash  
+## 官方安装命令：  
+```curl -fsSL https://get.casaos.io | bash```   
+或者  
+```wget -qO- https://get.casaos.io | bash```  
+  
+  
+  
 
-
-修改版安装命令：
-curl -fsSL https://raw.githubusercontents.com/bfkjz/casaos/master/get.sh | bash  
+## 修改版安装命令：  
+```curl -fsSL https://raw.githubusercontents.com/bfkjz/casaos/master/get.sh | bash```  
 或  
-curl -fsSL https://jsd.eagleyao.com/gh/bfkjz/casaos@master/get.sh | bash  
+```curl -fsSL https://jsd.eagleyao.com/gh/bfkjz/casaos@master/get.sh | bash```  
 或  
-curl -fsSL https://raw.iqiq.io/bfkjz/casaos/master/get.sh | bash  
+```curl -fsSL https://raw.iqiq.io/bfkjz/casaos/master/get.sh | bash```  
 或  
-curl -fsSL https://fastly.jsdelivr.net/gh/bfkjz/casaos@master/get.sh | bash  
+```curl -fsSL https://fastly.jsdelivr.net/gh/bfkjz/casaos@master/get.sh | bash```  
 或  
-curl -fsSL https://ghproxy.net/https://raw.githubusercontent.com/bfkjz/casaos/master/get.sh | bash  
+```curl -fsSL https://ghproxy.net/https://raw.githubusercontent.com/bfkjz/casaos/master/get.sh | bash```  
 或  
-curl -fsSL https://gcore.jsdelivr.net/gh/bfkjz/casaos@master/get.sh | bash  
+```curl -fsSL https://gcore.jsdelivr.net/gh/bfkjz/casaos@master/get.sh | bash```  
