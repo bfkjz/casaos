@@ -11,3 +11,14 @@
 
 
 修改版安装命令：
+curl -fsSL https://raw.githubusercontents.com/bfkjz/casaos/master/get.sh | bash  
+或  
+curl -fsSL https://jsd.eagleyao.com/gh/bfkjz/casaos@master/get.sh | bash  
+或  
+curl -fsSL https://raw.iqiq.io/bfkjz/casaos/master/get.sh | bash  
+或  
+curl -fsSL https://fastly.jsdelivr.net/gh/bfkjz/casaos@master/get.sh | bash  
+或  
+curl -fsSL https://ghproxy.net/https://raw.githubusercontent.com/bfkjz/casaos/master/get.sh | bash  
+或  
+curl -fsSL https://gcore.jsdelivr.net/gh/bfkjz/casaos@master/get.sh | bash  
