@@ -1,8 +1,10 @@
 # casaos
-原版因网络问题安装失败。改成国内镜像地址
-第63行的row地址改成raw.githubusercontents.com的。
-第188行、第189行、第190行、第191行github域名修改成CDN地址：https://download.fastgit.org/  
-
+原版因网络问题安装失败。改成国内镜像地址  
+第63行的row地址改成raw.githubusercontents.com  
+第188行、第189行、第190行、第191行的github域名修改成CDN地址：https://download.fastgit.org/  
+  
+  
+  
 官方github地址：https://github.com/IceWhaleTech/CasaOS
 
 官网：www.casaos.io  
